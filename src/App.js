@@ -1,10 +1,7 @@
-import './App.css';
 import Navbar from './Navbar';
 import Home from './home';
 
 function App() {
-  const title = "Welcome to the new blog";
-  const likes = 50
   return (
     <div className="App">
       <Navbar />
